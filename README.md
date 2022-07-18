@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently studying Learn in Depth (Embedded Systems Online Diploma)) [Learn in Depth Online Diploma](https://github.com/amrmsamy/Learn-in-Depth-online-diploma-)
 
-- 🌱 I’m currently improving my skills in **Embedded C, C, MISRA C, MCU Interfacing, RTOS and Autosar.**
+- 🌱 I’m currently improving my skills in **Embedded C, C, MISRA C and MCU Interfacing**
 
-- 👨‍💻 All of my projects are available at [my Github](my Github)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/amrmsamy)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amrmsamy/](https://www.linkedin.com/in/amrmsamy/)
 
