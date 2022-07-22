@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed Samy</h1>
-<h3 align="center">A self-motivated Mechatronics Engineer graduated from Menufiyah University 2021, Just finished the ITI 3 Months Intensive Code Camp (Embedded Systems Track) seeking a challenging position in the Embedded systems field in a high-quality engineering environment where my technical, academic, and communication skills would be employed and further enhanced.</h3>
+<h3 align="center">A self-motivated Mechatronics Engineer graduated from Menufiyah University 2021, I finished the ITI 3 Months Intensive Code Camp (Embedded Systems Track). And Iam seeking a challenging position in the Embedded systems field in a high-quality engineering environment where my technical, academic, and communication skills would be employed and further enhanced.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrmsamy&label=Profile%20views&color=0e75b6&style=flat" alt="amrmsamy" /> </p>
 
