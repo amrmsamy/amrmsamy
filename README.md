@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently studying Learn in Depth (Embedded Systems Online Diploma)) [Learn in Depth Online Diploma](https://github.com/amrmsamy/Learn-in-Depth-online-diploma-)
+- 🔭 I’m currently studying Embedded Systems
 
 - 🌱 I’m currently improving my skills in **Embedded C, C, MISRA C and MCU Interfacing**
 
